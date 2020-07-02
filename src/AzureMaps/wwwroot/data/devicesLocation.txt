@@ -1,0 +1,4 @@
+{"deviceId":"InVehicleDevice","violationPoint":"Richmond Highway N, Arlington, VA 22211","Location":["-77.06381320953369","38.884285142448284"],"Time":"06/17/2020 19:02:32"}
+{"deviceId":"InVehicleDevice","violationPoint":"Memorial Avenue, Washington, DC 20024","Location":["-77.06076622009277","38.88545434152897"],"Time":"06/17/2020 19:02:30"}
+{"deviceId":"InVehicleDevice","violationPoint":"Arlington Memorial Bridge, Washington, DC 20024","Location":["-77.05703258514404","38.886757140695906"],"Time":"06/17/2020 19:02:29"}
+{"deviceId":"InVehicleDevice","violationPoint":"Arlington, VA 22211","Location":["-77.06391245126724","38.882806913212285"],"Time":"06/17/2020 19:02:33"}

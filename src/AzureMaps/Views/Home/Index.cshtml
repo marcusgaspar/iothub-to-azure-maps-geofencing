@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "Geofence Demo";
+}
+
+@section Scripts
+{
+    <!-- Add references to the Azure Maps Map control JavaScript and CSS files. -->
+    <link rel="stylesheet" href="https://atlas.microsoft.com/sdk/javascript/mapcontrol/2/atlas.min.css" type="text/css" />
+    <script src="https://atlas.microsoft.com/sdk/javascript/mapcontrol/2/atlas.min.js"></script>
+
+    <script type='text/javascript'>
+        $(document).ready(function () {
+            GetMapGeoFence();
+        });
+
+    </script>
+}
+
+<div>
+    <div id="myMap"></div>
+</div>
