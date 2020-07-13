@@ -1,2 +1,2 @@
 ## Architecture
-![Architecture](https://github.com/marcusgaspar/IoTDemos/blob/master/IoTHubAndAzureMaps/images/IoTHubAndAzureMapsArchitecture.png)
+![Architecture](https://github.com/marcusgaspar/iothub-to-azure-maps-geofencing/blob/AddAzureMapsWebApp/src/AzureMaps/Readme/images/Architecture-Diagram.png)
